@@ -1,0 +1,13 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "Jafrin Sugantha 101392339",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start":"node index.js"
+  },
+  "keywords": ["devops","nodejs","express","web"],
+  "author": "Jafrin Sugantha",
+  "license": "ISC"
+}
